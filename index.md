@@ -1,21 +1,18 @@
 ---
 layout: home
-title: "Fatih Mehmet Arslan"
+title: "Mehmet Akif Turhan"
 permalink: /
 hero:
-  eyebrow: Solution architect & software engineer
-  title: I build practical, reliable platforms.
+  eyebrow: Web / Application Developer
+  title: I build reliable applications, websited
   description: |
-    Hi, I’m Fatih. I’ve spent the past 14+ years shaping solution architecture, cloud platforms,
-    and integrations so product teams can keep shipping without drama. I still dive into the code,
-    still draw workflows on real paper when screens get crowded, and I’ve learned that steady delivery
-    starts with plain language and honest expectations.
+ I’m a Computer Science graduate based in Athens, Greece, with experience in web application development and ICT support. I work across the full development lifecycle, from building clean, responsive user interfaces to deploying live applications, always focusing on reliability, usability, and maintainable solutions. I’ve collaborated with small businesses, individual clients, and internal teams to turn requirements into functional web applications. Alongside development, I currently work as an ICT Help Desk Agent at New York College of Athens, where I resolve hardware and software issues and build small internal tools that improve communication and workflow.
   seo_description: |
-    Fatih Mehmet Arslan is a solution architect and software engineer working in cloud,
+    Mehmet Akif Turhan is a web application developer and software engineer working in cloud,
     integration, and event-driven platforms. Known for steady delivery, clear communication,
     and hands-on problem solving across Europe.
-  image: /assets/fmarslan.png
-  image_alt: Fatih Mehmet Arslan portrait
+  image: /assets/pp.png
+  image_alt: Mehmet Akif Turhan portrait
   actions:
     - label: Download CV
       url: /cv/
