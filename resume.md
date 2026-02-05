@@ -6,7 +6,7 @@ description: Web - Application Developer with 4+ Years Of Experience
 permalink: /cv/
 ---
 
-**Email:** [contact@fmarslan.com](mailto:akifturhan89@gmail.com)  
+**Email:** [akifturhan89@gmail.com](mailto:akifturhan89@gmail.com)  
 **Website:** [https://mexatur.github.io/](https://mexatur.github.io/)
 
 ---
