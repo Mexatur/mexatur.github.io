@@ -8,8 +8,8 @@ description: A plain-spoken look at how I approach software architecture, collab
 <div class="bio-grid">
   <div>
     <h2>Hello there 👋</h2>
-    <p>I’m Fatih. I grew up fixing neighbours’ PCs, carried that curiosity into public-sector projects, and now support teams across Türkiye, the Benelux, and the wider EU. My approach stays the same: stay calm, map the system, and sketch until everyone understands the moving parts.</p>
-    <p>These days I focus on solution architecture, integration design, and the DevOps practices that stop releases from becoming fire drills. Fourteen-plus years in the field reminded me that durable platforms come from listening, writing things down, and staying close to production when it matters most.</p>
+    <p>I’m Akif. I am a Web Application developer that can fix, or help you developer your desired website.</p>
+    <p>These days I focus on software development, web design, and the DevOps practices that stop releases from becoming fire drills. Four-plus years in the field reminded me that durable platforms come from listening, writing things down, and staying close to production when it matters most.</p>
   </div>
   <div>
     <h2>How I like to work</h2>
