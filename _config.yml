@@ -1,25 +1,24 @@
-url: https://fmarslan.com
+url: https://mexatur.github.io/
 locale: "en-US"
-title: "F.M. Arslan"
+title: "Mehmet Akif Turhan"
 description: >
-  I'm a solution architect & software engineer.
+  I'm a Web - Application Developer.
 keywords:
-  - Fatih Mehmet Arslan
-  - solution architect
+  - Mehmet Akif Turhan
+  - web developer
   - software engineer
-  - cloud architecture
+  - application developer
 social:
-  name: "Fatih Mehmet Arslan"
+  name: "Mehmet Akif Turhan"
   links:
-    - https://www.linkedin.com/in/fmarslan
-    - https://github.com/fmarslan
-    - https://fmarslan.medium.com
+    - https://www.linkedin.com/in/mexatur
+    - https://github.com/mexatur
 
 author:
-  name: Fatih Mehmet ARSLAN
-  email: contact@fmarslan.com
+  name: Mehmet Akif Turhan
+  email: Akifturhan89@gmail.com
   type: person
-  job_title: Solution Architect & Software Engineer
+  job_title: Web - Application Developer
 
 share_image: /android-chrome-512x512.png
 
