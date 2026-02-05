@@ -8,7 +8,7 @@ description: A plain-spoken look at how I approach software architecture, collab
 <div class="bio-grid">
   <div>
     <h2>Hello there 👋</h2>
-    <p>I’m Akif. I am a Web Application developer that can fix, or help you developer your desired website.</p>
+    <p>I’m Akif. I am a Web Application developer that can fix, or help you to develop your desired website.</p>
     <p>These days I focus on software development, web design, and the DevOps practices that stop releases from becoming fire drills. Four-plus years in the field reminded me that durable platforms come from listening, writing things down, and staying close to production when it matters most.</p>
   </div>
   <div>
