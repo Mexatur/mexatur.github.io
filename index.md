@@ -4,7 +4,7 @@ title: "Mehmet Akif Turhan"
 permalink: /
 hero:
   eyebrow: Web / Application Developer
-  title: I build reliable applications, websited
+  title: I build reliable applications, websites
   description: |
     I’m a Computer Science graduate based in Athens, Greece, with experience in web application development and ICT support. I work across the full development lifecycle, from building clean, responsive user interfaces to deploying live applications, always focusing on     reliability, usability, and maintainable solutions. I’ve collaborated with small businesses, individual clients, and internal teams to turn requirements into functional web applications. Alongside development, I currently work as an ICT Help Desk Agent at New York      College of Athens, where I resolve hardware and software issues and build small internal tools that improve communication and workflow.
   seo_description: |
