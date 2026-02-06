@@ -100,7 +100,7 @@ contact:
     or simply sharing lessons over coffee. If you think I can help, just reach out.
   actions:
     - label: Email me
-      url: mailto:contact@fmarslan.com
+      url: mailto:akifturhan89@gmail.com
       style: primary
     - label: View resume
       url: /cv/
